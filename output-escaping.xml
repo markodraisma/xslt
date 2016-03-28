@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stellingen>
+     <stelling nr="1">
+          Als a > b en b > c dan geldt: c > a
+     </stelling>
+     <stelling nr="2">
+          Stelling 1 is onzin, als a > b en b > c dan geldt juist: c &lt; a!
+     </stelling>
+</stellingen>

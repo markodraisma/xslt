@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="totaalxslt2.xsl"?>
+
+<lijst>
+  <artikel>
+    <naam>geheugenkaart 4GB</naam>
+    <prijs>12.50</prijs>
+    <aantal>2</aantal>
+  </artikel>
+  <artikel>
+     <naam>USB hub</naam>
+    <prijs>10.00</prijs>
+    <aantal>3</aantal>
+  </artikel>
+ </lijst>

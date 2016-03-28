@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kantoren>
+     <kantoor kantnr="10">
+          <naam>BOEKHOUDING</naam>
+          <plaats>AMSTERDAM</plaats>
+          <werknemers>
+               <werknemer persnr="5810" mgr="6221">
+                    <naam>HEUVEL</naam>
+                    <sal>3450</sal>
+                    <functie>MANAGER</functie>
+               </werknemer>
+               <werknemer persnr="6221">
+                    <naam>KRAAY</naam>
+                    <sal>6000</sal>
+                    <functie>DIRECTEUR</functie>
+               </werknemer>
+               <werknemer persnr="8222" mgr="5810">
+                    <naam>MANDERS</naam>
+                    <sal>2300</sal>
+                    <functie>KLERK</functie>
+               </werknemer>
+          </werknemers>
+     </kantoor>
+     <kantoor kantnr="20">
+          <naam>ONDERZOEK</naam>
+          <plaats>UTRECHT</plaats>
+          <werknemers>
+               <werknemer persnr="3381" mgr="7902">
+                    <naam>SMITS</naam>
+                    <sal>2400</sal>
+                    <functie>KLERK</functie>
+               </werknemer>
+               <werknemer persnr="3930" mgr="6221">
+                    <naam>PIETERS</naam>
+                    <sal>3975</sal>
+                    <functie>MANAGER</functie>
+               </werknemer>
+               <werknemer persnr="5931" mgr="3930">
+                    <naam>SANDERS</naam>
+                    <sal>4000</sal>
+                    <functie>ANALIST</functie>
+               </werknemer>
+               <werknemer persnr="6681" mgr="5931">
+                    <naam>ADELAAR</naam>
+                    <sal>2100</sal>
+                    <functie>KLERK</functie>
+               </werknemer>
+               <werknemer persnr="7902" mgr="3930">
+                    <naam>VERMEULEN</naam>
+                    <sal>3900</sal>
+                    <functie>ANALIST</functie>
+               </werknemer>
+          </werknemers>
+     </kantoor>
+     <kantoor kantnr="30">
+          <naam>VERKOOP</naam>
+          <plaats>DEN HAAG</plaats>
+          <werknemers>
+               <werknemer persnr="3462" mgr="4621">
+                    <naam>ALKEMA</naam>
+                    <sal>2600</sal>
+                    <toeslag>300</toeslag>
+                    <functie>VERKOPER</functie>
+               </werknemer>
+               <werknemer persnr="3518" mgr="4621">
+                    <naam>WALSTRA</naam>
+                    <sal>2250</sal>
+                    <toeslag>500</toeslag>
+                    <functie>VERKOPER</functie>
+               </werknemer>
+               <werknemer persnr="4510" mgr="4621">
+                    <naam>VERGEER</naam>
+                    <sal>2250</sal>
+                    <toeslag>1400</toeslag>
+                    <functie>VERKOPER</functie>
+               </werknemer>
+               <werknemer persnr="4621" mgr="6221">
+                    <naam>KLAASEN</naam>
+                    <sal>3850</sal>
+                    <functie>MANAGER</functie>
+               </werknemer>
+               <werknemer persnr="6500" mgr="4621">
+                    <naam>DROST</naam>
+                    <sal>2500</sal>
+                    <toeslag>0</toeslag>
+                    <functie>VERKOPER</functie>
+               </werknemer>
+               <werknemer persnr="7900" mgr="4621">
+                    <naam>APPEL</naam>
+                    <sal>1950</sal>
+                    <functie>KLERK</functie>
+               </werknemer>
+          </werknemers>
+     </kantoor>
+     <kantoor kantnr="40">
+          <naam>PRODUCTIE</naam>
+          <plaats>ARNHEM</plaats>
+          <werknemers />
+     </kantoor>
+</kantoren>

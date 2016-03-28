@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<cd>
+		<titel>Empire Burlesque</titel>
+		<artiest>Bob Dylan</artiest>
+		<land>USA</land>
+		<uitgever>Columbia</uitgever>
+		<prijs>10.90</prijs>
+		<jaar>1985</jaar>
+	</cd>
+	<cd>
+		<titel>Hide your heart</titel>
+		<artiest>Bonnie Tyler</artiest>
+		<land>UK</land>
+		<uitgever>CBS Records</uitgever>
+		<prijs>9.90</prijs>
+		<jaar>1988</jaar>
+	</cd>
+	<dubbelcd>
+		<cd>
+			<titel>Greatest Hits</titel>
+			<artiest>Dolly Parton</artiest>
+			<land>USA</land>
+			<uitgever>RCA</uitgever>
+			<prijs>9.90</prijs>
+			<jaar>1982</jaar>
+		</cd>
+	</dubbelcd>
+
+</catalog>

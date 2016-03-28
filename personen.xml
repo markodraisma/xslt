@@ -1,0 +1,37 @@
+
+<personen xmlns="http://www.pers.nl">
+  <persoon>
+    <voornaam>Alex</voornaam>
+    <achternaam>Velten</achternaam>
+    <adres>
+      <straat>Perkstraat 5</straat>
+      <plaats>Hogerdam</plaats>
+    </adres>
+    <nationaliteit>Nederlands</nationaliteit>
+    <geboortedatum>18-11-1993</geboortedatum>
+    <ogen>blauw</ogen>
+  </persoon>
+  <persoon>
+    <voornaam>Simon</voornaam>
+    <achternaam>Scholten</achternaam>
+    <adres>
+      <straat>Tuinstraat 54</straat>
+      <plaats>Hogerdam</plaats>
+    </adres>
+    <nationaliteit>Nederlands</nationaliteit>
+    <geboortedatum>26-04-1995</geboortedatum>
+    <ogen>bruin</ogen>
+  </persoon>
+  <persoon>
+    <voornaam>Marith</voornaam>
+    <achternaam>Boersma</achternaam>
+    <adres>
+      <straat>Grasstraat 18</straat>
+      <plaats>Hogerdam</plaats>
+    </adres>
+    <nationaliteit>Belgisch</nationaliteit>
+    <geboortedatum>29-01-1999</geboortedatum>
+    <ogen>blauw</ogen>
+  </persoon>
+</personen>
+

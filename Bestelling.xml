@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bestelling>
+	<product kleur="chroom" kleurbekleding="zwart/antraciet" type="t">
+		<productid>99EK23</productid>
+		<omschrijving>eetkamerstoel Thom</omschrijving>
+		<prijs valuta="€">74.95</prijs>
+		<aantal>6</aantal>
+	</product>
+	<product kleur="chroom" kleurblad="antraciet">
+		<productid>99EK15</productid>
+		<omschrijving>eetkamertafel Thom</omschrijving>
+		<prijs valuta="€">245.50</prijs>
+		<aantal>1</aantal>
+	</product>
+	<product kleur="donkerblauw" type="2 hang/leg" name="123">
+		<productid>23TT45</productid>
+		<omschrijving>wandkast Manhatten</omschrijving>
+		<prijs valuta="$">424.50</prijs>
+		<aantal>1</aantal>
+	</product>
+	<product kleur="donkerblauw">
+		<omschrijving>bankstel Rimboe</omschrijving>
+		<model type="2 zits">
+			<productid>27WK23</productid>
+			<prijs valuta="€">724.50</prijs>
+			<aantal>1</aantal>
+		</model>
+		<model type="4 zits hoek">
+			<productid>27WK24</productid>
+			<prijs valuta="€">1134.50</prijs>
+			<aantal>1</aantal>
+		</model>
+	</product>
+	<product kleur="rood">
+		<productid>41HF56</productid>
+		<omschrijving>zitzak Bertold</omschrijving>
+		<prijs valuta="€">84.99</prijs>
+			<aantal>2</aantal>
+	</product>
+</bestelling>

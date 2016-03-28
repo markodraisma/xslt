@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<groepen>
+     <groep>
+          <mv>jongens</mv>
+          <personen>
+               <persoon>
+                    <naam>Willem Veenstra</naam>
+               </persoon>
+               <persoon>
+                    <naam>Vincent Schouten</naam>
+               </persoon>
+          </personen>
+     </groep>
+     <groep>
+          <mv>meisjes</mv>
+          <personen>
+               <persoon>
+                    <naam>Joleen Dijkstra</naam>
+               </persoon>
+          </personen>
+     </groep>
+</groepen>

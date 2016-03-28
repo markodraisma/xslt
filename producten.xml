@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<producten xmlns="www.producten.nl">
+	<product>
+		<id>32</id>
+		<soort>schoen</soort>
+		<prijs>34.50</prijs>
+		<aantal>20800</aantal>
+	</product>
+	<product>
+		<id>563</id>
+		<soort>slipper</soort>
+		<prijs>12.95</prijs>
+		<aantal>1280500</aantal>
+	</product>
+	<product>
+		<id>2</id>
+		<soort>klomp</soort>
+		<prijs>15.50</prijs>
+		<aantal>4500</aantal>
+	</product>
+</producten>

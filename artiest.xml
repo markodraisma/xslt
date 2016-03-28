@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<lijst>
+	<cd>
+		<titel>Empire Burlesque</titel>
+		<artiest>Bob Dylan</artiest>
+		<land>USA</land>
+		<uitgever>Columbia</uitgever>
+		<prijs>10.99</prijs>
+		<jaar>1985</jaar>
+	</cd>
+	<cd>
+		<titel>1999 Grammy Nominees</titel>
+		<artiest>Many</artiest>
+		<land>USA</land>
+		<uitgever>Grammy</uitgever>
+		<prijs>10.20</prijs>
+		<jaar>1999</jaar>
+	</cd>
+	<cd>
+		<titel>For the good times</titel>
+		<artiest>Kenny Rogers</artiest>
+		<land>UK</land>
+		<uitgever>Mucik Master</uitgever>
+		<prijs>8.70</prijs>
+		<jaar>1995</jaar>
+	</cd>
+	<cd>
+		<titel>Hide your heart</titel>
+		<artiest>Bonnie Tyler</artiest>
+		<land>UK</land>
+		<uitgever>CBS Records</uitgever>
+		<prijs>9.90</prijs>
+		<jaar>1988</jaar>
+	</cd>
+	<cd>
+		<titel>Tupelo Honey</titel>
+		<artiest>Van Morrison</artiest>
+		<land>UK</land>
+		<uitgever>Polydor</uitgever>
+		<prijs>8.25</prijs>
+		<jaar>1971</jaar>
+	</cd>
+	<cd>
+		<titel>One night only</titel>
+		<artiest>Bee Gees</artiest>
+		<land>UK</land>
+		<uitgever>Polydor</uitgever>
+		<prijs>10.90</prijs>
+		<jaar>1998</jaar>
+	</cd>
+	<cd>
+		<titel>Sylvias Mother</titel>
+		<artiest>Dr.Hook</artiest>
+		<land>UK</land>
+		<uitgever>CBS</uitgever>
+		<prijs>8.10</prijs>
+		<jaar>1973</jaar>
+	</cd>
+	<cd>
+		<titel>Still got the blues</titel>
+		<artiest>Gary Moore</artiest>
+		<land>UK</land>
+		<uitgever>Virgin records</uitgever>
+		<prijs>10.20</prijs>
+		<jaar>1990</jaar>
+	</cd>
+		<cd>
+		<titel>Maggie May</titel>
+		<artiest>Rod Stewart</artiest>
+		<land>UK</land>
+		<uitgever>Pickwick</uitgever>
+		<prijs>8.50</prijs>
+		<jaar>1990</jaar>
+	</cd>
+	<cd>
+		<titel>Eros</titel>
+		<artiest>Eros Ramazzotti</artiest>
+		<land>EU</land>
+		<uitgever>BMG</uitgever>
+		<prijs>9.95</prijs>
+		<jaar>1997</jaar>
+	</cd>
+	<cd>
+		<titel>Big Willie style</titel>
+		<artiest>Will Smith</artiest>
+		<land>USA</land>
+		<uitgever>Columbia</uitgever>
+		<prijs>9.90</prijs>
+		<jaar>1997</jaar>
+	</cd>
+	<cd>
+		<titel>Soulsville</titel>
+		<artiest>Jorn Hoel</artiest>
+		<land>Norway</land>
+		<uitgever>WEA</uitgever>
+		<prijs>7.90</prijs>
+		<jaar>1996</jaar>
+	</cd>
+	<cd>
+		<titel>The very best of</titel>
+		<artiest>Cat Stevens</artiest>
+		<land>UK</land>
+		<uitgever>Island</uitgever>
+		<prijs>8.90</prijs>
+		<jaar>1990</jaar>
+	</cd>
+	<cd>
+		<titel>Stop</titel>
+		<artiest>Sam Brown</artiest>
+		<land>UK</land>
+		<uitgever>A and M</uitgever>
+		<prijs>8.90</prijs>
+		<jaar>1988</jaar>
+	</cd>
+	<cd>
+		<titel>Bridge of Spies</titel>
+		<artiest>T`Pau</artiest>
+		<land>UK</land>
+		<uitgever>Siren</uitgever>
+		<prijs>7.90</prijs>
+		<jaar>1987</jaar>
+	</cd>
+	<cd>
+		<titel>Private Dancer</titel>
+		<artiest>Tina Turner</artiest>
+		<land>UK</land>
+		<uitgever>Capitol</uitgever>
+		<prijs>8.90</prijs>
+		<jaar>1983</jaar>
+	</cd>
+	<cd>
+		<titel>Midt om natten</titel>
+		<artiest>Kim Larsen</artiest>
+		<land>EU</land>
+		<uitgever>Medley</uitgever>
+		<prijs>7.80</prijs>
+		<jaar>1983</jaar>
+	</cd>
+	<cd>
+		<titel>Picture book</titel>
+		<artiest>Simply Red</artiest>
+		<land>EU</land>
+		<uitgever>Elektra</uitgever>
+		<prijs>7.20</prijs>
+		<jaar>1985</jaar>
+	</cd>
+	<cd>
+		<titel>Black angel</titel>
+		<artiest>Savage Rose</artiest>
+		<land>EU</land>
+		<uitgever>Mega</uitgever>
+		<prijs>10.90</prijs>
+		<jaar>1995</jaar>
+	</cd>
+	<cd>
+		<titel>Romanza</titel>
+		<artiest>Andrea Bocelli</artiest>
+		<land>EU</land>
+		<uitgever>Polydor</uitgever>
+		<prijs>10.80</prijs>
+		<jaar>1996</jaar>
+	</cd>
+	<cd>
+		<titel>Pavarotti Gala Concert</titel>
+		<artiest>Luciano Pavarotti</artiest>
+		<land>UK</land>
+		<uitgever>DECCA</uitgever>
+		<prijs>9.90</prijs>
+		<jaar>1991</jaar>
+	</cd>
+	<cd>
+		<titel>Red</titel>
+		<artiest>The Communards</artiest>
+		<land>UK</land>
+		<uitgever>London</uitgever>
+		<prijs>7.80</prijs>
+		<jaar>1987</jaar>
+	</cd>
+	<cd>
+		<titel>Unchain my heart</titel>
+		<artiest>Joe Cocker</artiest>
+		<land>USA</land>
+		<uitgever>EMI</uitgever>
+		<prijs>8.20</prijs>
+		<jaar>1987</jaar>
+	</cd>
+	<cd>
+		<titel>When a man loves a woman</titel>
+		<artiest>Percy Sledge</artiest>
+		<land>USA</land>
+		<uitgever>Atlantic</uitgever>
+		<prijs>8.70</prijs>
+		<jaar>1987</jaar>
+	</cd>
+	<cd>
+		<titel>Greatest Hits</titel>
+		<artiest>Dolly Parton</artiest>
+		<land>USA</land>
+		<uitgever>RCA</uitgever>
+		<prijs>9.90</prijs>
+		<jaar>1982</jaar>
+	</cd>
+	<cd>
+		<titel>The dock of the bay</titel>
+		<artiest>Otis Redding</artiest>
+		<land>USA</land>
+		<uitgever>Atlantic</uitgever>
+		<prijs>7.90</prijs>
+		<jaar>1987</jaar>
+	</cd>
+</lijst>

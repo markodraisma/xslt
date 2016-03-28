@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<boek>
+     <hoofdstuk>
+          <paragraaf>
+               <paragraaf></paragraaf>
+          </paragraaf>
+          <paragraaf>
+               <paragraaf></paragraaf>
+          </paragraaf>
+     </hoofdstuk>
+     <hoofdstuk>
+          <paragraaf>
+               <paragraaf>
+                    <paragraaf></paragraaf>
+               </paragraaf>
+          </paragraaf>
+          <paragraaf>
+               <paragraaf></paragraaf>
+          </paragraaf>
+     </hoofdstuk>
+     <hoofdstuk>
+          <paragraaf>
+          </paragraaf>
+          <paragraaf>
+               <paragraaf></paragraaf>
+          </paragraaf>
+     </hoofdstuk>
+</boek>

@@ -1,0 +1,90 @@
+<werknemers>
+     <werknemer persnr="3381">
+          <naam>SMITS</naam>
+          <functie>KLERK</functie>
+          <salaris>2400</salaris>
+          <kantnr>20</kantnr>
+     </werknemer>
+     <werknemer persnr="3462">
+          <naam>ALKEMA</naam>
+          <functie>VERKOPER</functie>
+          <salaris>2600</salaris>
+          <toeslag>300</toeslag>
+          <kantnr>30</kantnr>
+     </werknemer>
+     <werknemer persnr="3518">
+          <naam>WALSTRA</naam>
+          <functie>VERKOPER</functie>
+          <salaris>2250</salaris>
+          <toeslag>500</toeslag>
+          <kantnr>30</kantnr>
+     </werknemer>
+     <werknemer persnr="3930">
+          <naam>PIETERS</naam>
+          <functie>MANAGER</functie>
+          <salaris>3975</salaris>
+          <kantnr>20</kantnr>
+     </werknemer>
+     <werknemer persnr="4510">
+          <naam>VERGEER</naam>
+          <functie>VERKOPER</functie>
+          <salaris>2250</salaris>
+          <toeslag>1400</toeslag>
+          <kantnr>30</kantnr>
+     </werknemer>
+     <werknemer persnr="4621">
+          <naam>KLAASEN</naam>
+          <functie>MANAGER</functie>
+          <salaris>3850</salaris>
+          <kantnr>30</kantnr>
+     </werknemer>
+     <werknemer persnr="5810">
+          <naam>HEUVEL</naam>
+          <functie>MANAGER</functie>
+          <salaris>3450</salaris>
+          <kantnr>10</kantnr>
+     </werknemer>
+     <werknemer persnr="5931">
+          <naam>SANDERS</naam>
+          <functie>ANALIST</functie>
+          <salaris>4000</salaris>
+          <kantnr>20</kantnr>
+     </werknemer>
+     <werknemer persnr="6221">
+          <naam>KRAAY</naam>
+          <functie>DIRECTEUR</functie>
+          <salaris>6000</salaris>
+          <kantnr>10</kantnr>
+     </werknemer>
+     <werknemer persnr="6500">
+          <naam>DROST</naam>
+          <functie>VERKOPER</functie>
+          <salaris>2500</salaris>
+          <toeslag>0</toeslag>
+          <kantnr>30</kantnr>
+     </werknemer>
+     <werknemer persnr="6681">
+          <naam>ADELAAR</naam>
+          <functie>KLERK</functie>
+          <salaris>2100</salaris>
+          <kantnr>20</kantnr>
+     </werknemer>
+     <werknemer persnr="7900">
+          <naam>APPEL</naam>
+          <functie>KLERK</functie>
+          <salaris>1950</salaris>
+          <kantnr>30</kantnr>
+     </werknemer>
+     <werknemer persnr="7902">
+          <naam>VERMEULEN</naam>
+          <functie>ANALIST</functie>
+          <salaris>3900</salaris>
+          <kantnr>20</kantnr>
+     </werknemer>
+     <werknemer persnr="8222">
+          <naam>MANDERS</naam>
+          <functie>KLERK</functie>
+          <salaris>2300</salaris>
+          <kantnr>10</kantnr>
+     </werknemer>
+</werknemers>
